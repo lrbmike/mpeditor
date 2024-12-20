@@ -13,6 +13,7 @@ npm install --legacy-peer-deps
 npm run start
 ```
 
+----------
 
 **MPEditor**是专注于微信公众号的编辑阅读器，利用MPEditor可以使用 **Markdown** 语法编写微信公众号文章，编辑完后可以复制到公众号发布平台直接发布，真正的实现即看即所得（保证不会乱~）：
 
